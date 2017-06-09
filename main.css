@@ -5,6 +5,10 @@ body{
 .theMessage{
   height: 5em;
   width: 10em;
+  color: pink;
+}
+.messageTwo {
+  color: red;
 }
 .messageThree{
   color: blue;
